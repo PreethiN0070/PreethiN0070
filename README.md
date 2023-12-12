@@ -14,7 +14,7 @@ I'm Preethi N, a passionate final year Computer Science Engineering student with
 - Email: preethi.njh@gmail.com
 
 👀 **GitHub Stats:**
-![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreethiN0070&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 🚀 **Languages and Tools:**
 - HTML, CSS, JavaScript,PHP
