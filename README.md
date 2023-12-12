@@ -1,13 +1,16 @@
-# Hi there! 👋
+# Hi there! 👋 I'm [Preethi N](https://www.linkedin.com/in/preethi-n), a passionate final year Computer Science Engineering student.
 
-I'm Preethi N, a passionate final year Computer Science Engineering student with a keen interest in web development and design.
+🚀 **About Me:**
+- 💼 Aspiring Full-Stack Web Developer
+- 🌐 Enthusiast in UI/UX Design
+- 📚 Currently exploring new technologies in the tech world
 
 🌱 **Currently Learning:**
-- Web Development Technologies
-- Design Principles and UI/UX
+- Advanced Web Development
+- Design Principles and UI/UX Best Practices
 
 ✨ **Looking to Collaborate On:**
-- Exciting web development projects
+- Innovative web development projects
 - Open-source contributions
 
 📧 **Reach Me At:**
@@ -17,12 +20,17 @@ I'm Preethi N, a passionate final year Computer Science Engineering student with
 ![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreethiN0070&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 🚀 **Languages and Tools:**
-- HTML, CSS, JavaScript,PHP
-- Python, Java
-- Git, GitHub
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP, Python, Java
+- **Version Control:** Git, GitHub
+
+🌐 **Portfolio:** [preethi-portfolio.com](https://preethi-portfolio.com)
 
 🔗 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/preethi-n)
 
+🎯 **Goals:**
+- Contribute to meaningful open-source projects
+- Build user-friendly and impactful web applications
 
 Let's connect and create something awesome together! 🚀
