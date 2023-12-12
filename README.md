@@ -24,7 +24,7 @@
 - **Backend:** PHP, Python, Java
 - **Version Control:** Git, GitHub
 
-🌐 **Portfolio:** [preethi-portfolio.com](https://preethi-portfolio.com)
+🌐 **Portfolio:** Working on it
 
 🔗 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/preethi-n)
