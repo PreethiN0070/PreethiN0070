@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Preethi N](https://www.linkedin.com/in/preethi-n), a final-year Computer Science Engineering student passionate about technology and innovation.
+# Hi there! 👋 I'm [Preethi N](https://www.linkedin.com/in/preethi-n), a  Computer Science Engineering Graduate passionate about technology and innovation.
 
 🚀 **About Me:**
 - 💼 Aspiring Full-Stack Web Developer, eager to create dynamic and user-centric web experiences.
